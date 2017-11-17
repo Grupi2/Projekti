@@ -11,7 +11,7 @@
 
 <header>
 	<nav>
-		<div class="main-wrapper">
+		<div class="main">
 			<ul>
 				<li><a href="index.php">Home</a></li>
 			</ul>

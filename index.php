@@ -3,7 +3,7 @@
 ?>
 
 <section class="main-container">
-	<div class="main-wrapper">
+	<div class="main">
 		<h2>Home</h2>
 
 <?php 
